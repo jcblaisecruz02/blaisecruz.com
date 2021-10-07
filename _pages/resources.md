@@ -12,7 +12,9 @@ Here's a list of datasets that we use in our papers.
 - **NewsPH-NLI Dataset**  
 *Sentence Entailment Dataset in Filipino*  
 First benchmark dataset for sentence entailment in the low-resource Filipino language. Constructed through exploting the structure of news articles. Contains 600,000 premise-hypothesis pairs, in 70-15-15 split for training, validation, and testing. Originally published in [(Cruz et al., 2021)](https://arxiv.org/abs/2010.11574).  
-[`download`](https://s3.us-east-2.amazonaws.com/blaisecruz.com/datasets/newsph/newsph-nli.zip) &nbsp; [`bibtex`](https://s3.us-east-2.amazonaws.com/blaisecruz.com/bib/cruz2021exploiting.txt)  
+[`download`](https://s3.us-east-2.amazonaws.com/blaisecruz.com/datasets/newsph/newsph-nli.zip) &nbsp; [`bibtex`](https://s3.us-east-2.amazonaws.com/blaisecruz.com/bib/cruz2021exploiting.txt)
+
+
 - **WikiText-TL-39**  
 *Large Scale Unlabeled Corpora in Filipino*  
 Text dataset with 39 Million tokens in the training split. The TL infix refers to Tagalog[^1]. Inspired by the original [WikiText Long Term Dependency dataset](https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/) (Merity et al., 2016). Published in [Cruz & Cheng (2019)](https://arxiv.org/abs/1907.00409).  
