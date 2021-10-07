@@ -41,7 +41,7 @@ Benchmark dataset for low-resource multiclass classification, with 4,015 trainin
 We provide a number of pretrained models in Filipino that you can use for your projects.
 
 #### ELECTRA Models
-Tagalog ELECTRA models that we used for [Cruz et al. (2021)](https://arxiv.org/abs/2010.11574) to test the NewsPH-NLI dataset. Our models are available in HuggingFace. Use the discriminator models for downstream tasks, unless you need a generative model, in which case you should use the generator models. [`bibtex`](https://s3.us-east-2.amazonaws.com/blaisecruz.com/bib/cruz2021exploiting.txt)  
+Tagalog ELECTRA models that we used for [Cruz et al. (2021)](https://arxiv.org/abs/2010.11574) to test the NewsPH-NLI dataset. Our models are available in HuggingFace. Use the discriminator models for downstream tasks, unless you need a mask-filling model, in which case you should use the generator models. [`bibtex`](https://s3.us-east-2.amazonaws.com/blaisecruz.com/bib/cruz2021exploiting.txt)  
 
 - [`electra-tagalog-base-cased-discriminator`](https://huggingface.co/jcblaise/electra-tagalog-base-cased-discriminator)
 - [`electra-tagalog-base-uncased-discriminator`](https://huggingface.co/jcblaise/electra-tagalog-base-uncased-discriminator)
