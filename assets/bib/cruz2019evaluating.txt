@@ -1,0 +1,6 @@
+@article{cruz2019evaluating,
+  title={Evaluating Language Model Finetuning Techniques for Low-resource Languages},
+  author={Jan Christian Blaise Cruz and Charibeth Cheng},
+  journal={arXiv preprint arXiv:1907.00409},
+  year={2019},
+}

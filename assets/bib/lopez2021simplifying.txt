@@ -1,0 +1,8 @@
+@inproceedings{lopez2021simplifying,
+  title={Simplifying Paragraph-level Question Generation via Transformer Language Models},
+  author={Lopez, Luis Enrico and Cruz, Diane Kathryn and Cruz, Jan Christian Blaise and Cheng, Charibeth},
+  booktitle={Pacific Rim International Conference on Artificial Intelligence},
+  pages={323--334},
+  year={2021},
+  organization={Springer}
+}

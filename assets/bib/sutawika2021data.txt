@@ -1,0 +1,8 @@
+@inproceedings{sutawika2021data,
+  title={Data Processing Matters: SRPH-Konvergen AI's Machine Translation System for WMT'21}, 
+  author={Lintang* Sutawika and Jan Christian Blaise* Cruz},
+  booktitle={Proceedings of the Sixth Conference on Machine Translation},
+  pages={436--443},
+  year={2021},
+  organization={Association for Computational Linguistics}
+}
