@@ -6,4 +6,4 @@ description: Background and Work Experience.
 nav: true
 ---
 
-My resume is available [here](https://s3.us-east-2.amazonaws.com/blaisecruz.com/assets/resume.pdf) for reference.
+My full CV is available [here](https://s3.us-east-2.amazonaws.com/blaisecruz.com/assets/cv2022.pdf) for reference.
