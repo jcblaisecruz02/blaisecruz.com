@@ -176,6 +176,13 @@ scholar:
 
   query: "@*"
 
+  # Added
+  sort_by: date
+  order: descending
+  type_order: [proceedings, inproceedings, conference, article, inbook, book, unpublished, misc, report, incollections]
+  type_names: {unpublished: Preprints, report: Reports, article: Journal Articles, 
+        inproceedings: Conference Papers}
+
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
 # -----------------------------------------------------------------------------
