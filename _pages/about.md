@@ -6,7 +6,7 @@ description: Low-resource Natural Language Processing
 
 profile:
   align: right
-  image: profile2.png
+  image: profile3.png
   address: 
 
 news: false  # includes a list of news items
