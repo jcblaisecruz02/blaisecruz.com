@@ -1,6 +1,0 @@
-@article{cruz2020establishing,
-  title={Establishing Baselines for Text Classification in Low-Resource Languages},
-  author={Jan Christian Blaise Cruz and Charibeth Cheng},
-  journal={arXiv preprint arXiv:2005.02068},
-  year={2020}
-}
