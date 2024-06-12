@@ -57,6 +57,15 @@
   ],
   "education": [
     {
+      "institution": "Mohammed bin Zayed University of Artificial Intelligence",
+      "location": "Abu Dhabi, UAE",
+      "area": "Incoming PhD Student -- Fall 2024 Cohort",
+      "studyType": "PhD Natural Language Processing",
+      "startDate": "2024-08-21",
+      "endDate": "",
+      "courses": []
+    },
+    {
       "institution": "De La Salle University - Manila",
       "location": "Manila, Philippines",
       "area": "Most Outstanding Thesis Awardee (Localization of Fake News Detection via Multitask Transfer Learning) advised by Dr. Charibeth K. Cheng",
