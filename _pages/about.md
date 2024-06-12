@@ -1,25 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Low-resource Natural Language Processing
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Mabuhay! 👋 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a researcher at [Samsung Research Philippines](https://research.samsung.com/srph) where I specialize in NLP problems at the intersection of multilinguality and low-resource languages.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests revolve around creative approaches to solve NLP problems constrained by minimal data. Topics I have worked on encompass a wide variety of tasks such as fake news detection, multilingual translation, language modeling, and linguistic code-switching — all done within the scope of low-resource languages.
+
+Given that my native tongue — Filipino — is a low-resource language, I spend time to develop and open-source datasets and models to boost research in this area. Do check out my [Resources](/resources) tab if you're interested in pretrained models and benchmark datasets for my language! My Filipino transformer models are also available on 🤗 [HuggingFace](https://huggingface.co/) under my username [`jcblaise`](https://huggingface.co/jcblaise).
+
+Aside from my work at Samsung, I am also a lecturer at the [University of the Philippines - Diliman](https://eee.upd.edu.ph/), as well as a research consultant for the [DLSU Center for Language Technologies](https://www.dlsu.edu.ph/research/research-centers/adric/celt/) (CELT) where I advise graduate students on dialogue generation research. Prior to this, I also spent time with [Senti AI](https://senti.ai) and [DLSU COMET](https://comet.dlsu.edu.ph/) working on conversational agents and machine learning.
+
+If you're interested in collaborating or if you want to chat about low-resource languages, feel free to get in touch! You may reach me through my email `me (at) blaisecruz (dot) com`.

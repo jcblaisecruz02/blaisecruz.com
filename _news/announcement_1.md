@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-06-12
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+The preprint for our paper [**CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark**](arxiv.org/abs/2406.05967) is out!
