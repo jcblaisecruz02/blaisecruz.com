@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Low-resource Natural Language Processing
+subtitle: Samsung Research Philippines
 
 profile:
   align: right
@@ -17,12 +17,13 @@ social: true # includes social icons at the bottom of the page
 
 Mabuhay! 👋 
 
-I'm a researcher at [Samsung Research Philippines](https://research.samsung.com/srph) where I specialize in NLP problems at the intersection of multilinguality and low-resource languages.
+I'm a researcher at [Samsung Research Philippines](https://research.samsung.com/srph) where I specialize in problems at the intersection of *Multilinguality* and *Low-resource Languages*.
 
-My research interests revolve around creative approaches to solve NLP problems constrained by minimal data. Topics I have worked on encompass a wide variety of tasks such as fake news detection, multilingual translation, language modeling, and linguistic code-switching — all done within the scope of low-resource languages.
+My research focuses on understanding model behavior in low-resource domains. I've collaborated with talented colleagues on a number of topics including:
+* **Code Switching** -- Multilingual speakers naturally [code-switch](https://en.wikipedia.org/wiki/Code-switching) in two or more languages when speaking to peers, but multilingual models are still lacking in capabilities to [understand](https://aclanthology.org/2023.emnlp-main.774/) and [execute](https://aclanthology.org/2023.calcs-1.5/) this phenomenon.
+* **Resources & Evaluation** -- More data is often the best remedy to "very little data". In addition to working on [🇵🇭 Filipino](https://huggingface.co/jcblaise) resources, I have also done work for [Southeast Asian Langauges](https://arxiv.org/abs/2406.10118) and [beyond](https://arxiv.org/abs/2406.05967).
+* **Applications in Low-resource** -- Employing creative techniques to improve performance in tasks such as [Multilingual Translation](https://aclanthology.org/2021.wmt-1.52/), [Question Generation](https://arxiv.org/abs/2005.01107), [Fake News Detection](https://aclanthology.org/2020.lrec-1.316/), and more -- all constrained under low-resource settings.
 
-Given that my native tongue — Filipino — is a low-resource language, I spend time to develop and open-source datasets and models to boost research in this area. Do check out my [Resources](/resources) tab if you're interested in pretrained models and benchmark datasets for my language! My Filipino transformer models are also available on 🤗 [HuggingFace](https://huggingface.co/) under my username [`jcblaise`](https://huggingface.co/jcblaise).
-
-Aside from my work at Samsung, I am also a lecturer at the [University of the Philippines - Diliman](https://eee.upd.edu.ph/), as well as a research consultant for the [DLSU Center for Language Technologies](https://www.dlsu.edu.ph/research/research-centers/adric/celt/) (CELT) where I advise graduate students on dialogue generation research. Prior to this, I also spent time with [Senti AI](https://senti.ai) and [DLSU COMET](https://comet.dlsu.edu.ph/) working on conversational agents and machine learning.
+Previously, I've also been affiliated with [UP Diliman](https://eee.upd.edu.ph/), [DLSU CeLT](https://www.dlsu.edu.ph/research/research-centers/adric/celt/), and [Senti AI](https://senti.ai).
 
 If you're interested in collaborating or if you want to chat about low-resource languages, feel free to get in touch! You may reach me through my email `me (at) blaisecruz (dot) com`.
