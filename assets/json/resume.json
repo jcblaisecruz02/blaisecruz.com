@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Jan Christian Blaise Cruz",
-    "current Title": "Lead Engineer, Speech and Natural Language Processing",
-    "current Affiliation": "Samsung Research Philippines",
+    "current Title": "PhD Natural Language Processing",
+    "current Affiliation": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
     "image": "",
     "email": "me@blaisecruz.com",
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "jcblaisecruz",
+        "url": "https://twitter.com/jcblaisecruz"
       }
     ]
   },
@@ -18,7 +18,7 @@
       "name": "Samsung Research Philippines",
       "position": "Lead Engineer, Speech and Natural Language Processing",
       "startDate": "2021-01-01",
-      "endDate": "",
+      "endDate": "2024-08-30",
       "summary": "Leads a team of research engineers on Speech and NLP R&D for Samsung's AI Products. Heads research on multilingual and low-resource NLP.",
       "highlights": []
     },
@@ -57,9 +57,9 @@
   ],
   "education": [
     {
-      "institution": "Mohammed bin Zayed University of Artificial Intelligence",
+      "institution": "Mohamed bin Zayed University of Artificial Intelligence",
       "location": "Abu Dhabi, UAE",
-      "area": "Incoming PhD Student -- Fall 2024 Cohort",
+      "area": "Multilinguality and Low-resource Languages. Supervised by Dr. Alham Fikri Aji",
       "studyType": "PhD Natural Language Processing",
       "startDate": "2024-08-21",
       "endDate": "",
@@ -68,8 +68,8 @@
     {
       "institution": "De La Salle University - Manila",
       "location": "Manila, Philippines",
-      "area": "Most Outstanding Thesis Awardee (Localization of Fake News Detection via Multitask Transfer Learning) advised by Dr. Charibeth K. Cheng",
-      "studyType": "BS-MS Computer Science",
+      "area": "Thesis: Localization of Fake News Detection via Multitask Transfer Learning (Most Outstanding Thesis Award). Supervised by Dr. Charibeth K. Cheng.",
+      "studyType": "BSc-MSc Computer Science",
       "startDate": "2015-08-24",
       "endDate": "2019-08-27",
       "courses": []
