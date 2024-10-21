@@ -15,6 +15,69 @@ My Instagram [@jcblaisecruz](https://instagram.com/jcblaisecruz) might be more u
 
 ---
 
+### Saadiyat Island, Abu Dhabi 🇦🇪
+{: style="text-align: center;"}
+<div class="caption">October 2024<br/>Sony A7III + Sigma 24-70mm f2.8 DG DN Art</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/photography/louvre-20241013-01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/photography/louvre-20241013-02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/photography/louvre-20241013-03.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<br />
+
+### Sea World, Abu Dhabi 🇦🇪
+{: style="text-align: center;"}
+<div class="caption">October 2024<br/>Sony A7III + Sigma 24-70mm f2.8 DG DN Art</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/photography/seaworld-20241006-01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/photography/seaworld-20241006-02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/photography/seaworld-20241006-03.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/photography/seaworld-20241006-04.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<br />
+
+### Al Fahidi, Dubai 🇦🇪
+{: style="text-align: center;"}
+<div class="caption">Sepember 2024<br/>Sony A6400 + Sigma 18-50mm f2.8 DC DN</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/photography/dubai-20240914-01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/photography/dubai-20240914-02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<br />
+
 ### Saadiyat and Al Ras Al Akhdar, Abu Dhabi 🇦🇪
 {: style="text-align: center;"}
 <div class="caption">August 2024<br/>Sony A6400 + FE Zeiss Sonnar T* 55mm f1.8</div>

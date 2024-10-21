@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Conference, Journal, and arXiv publications of my work so far
+description: Conference, journal, and preprint publications of my work
 nav: true
 nav_order: 2
 ---

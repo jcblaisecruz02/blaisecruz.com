@@ -16,8 +16,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Mabuhay! 👋 
-
-I'm a PhD student at [MBZUAI](https://mbzuai.ac.ae) supervised by [Dr. Alham Fikri Aji](https:/afaji.github.io) specializing in problems at the intersection of *Multilinguality* and *Low-resource Languages*.
+  
+I'm a PhD student at [MBZUAI](https://mbzuai.ac.ae) supervised by [Dr. Alham Fikri Aji](https://afaji.github.io) specializing in problems at the intersection of *Multilinguality* and *Low-resource Languages*.
 
 Particularly, I am interested in understanding the behavior of models when constrained under low-resource multilingual domains. I've collaborated with many talented colleagues on various topics under this umbrella, including:
 * **Code Switching** -- Multilingual speakers naturally [code-switch](https://en.wikipedia.org/wiki/Code-switching) in two or more languages when speaking to peers, but multilingual models are still lacking in capabilities to [understand](https://aclanthology.org/2023.emnlp-main.774/) and [execute](https://aclanthology.org/2023.calcs-1.5/) this phenomenon.

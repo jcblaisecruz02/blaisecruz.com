@@ -79,6 +79,7 @@ github_username: jcblaisecruz02 # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: jcblaisecruz # your instagram id
+inspirehep_id: 1010907 # Inspire HEP author ID
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
@@ -333,6 +334,7 @@ enable_publication_badges:
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
   google_scholar: false # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
@@ -340,12 +342,14 @@ filtered_bibtex_keywords:
     abbr,
     abstract,
     additional_info,
+    annotation,
     altmetric,
     arxiv,
     award,
     award_name,
     bibtex_show,
     blog,
+    inspirehep_id,
     code,
     html,
     pdf,
@@ -359,8 +363,8 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 15 # leave blank to always show all authors
-more_authors_animation_delay: 3 # more authors are revealed on click using animation; smaller delay means faster animation
+max_author_limit: 11 # leave blank to always show all authors
+more_authors_animation_delay: 1.5 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
 enable_publication_thumbnails: true
