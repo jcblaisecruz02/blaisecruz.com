@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be joining the **Mohammed bin Zayed University of Artificial Intelligence** as a PhD student this Fall 2024!
+I'll be joining [**MBZUAI**](https://mbzuai.ac.ae/) as a PhD student this Fall 2024!
